@@ -17,5 +17,5 @@ python hello.py
 - [x] 安装 Git / VS Code / Python
 - [x] 配置 Git 身份
 - [x] 创建第一个仓库
-- [ ] 推送到 GitHub
+- [x] 推送到 GitHub
 - [ ] 做出第一个能用的门店数据小工具
