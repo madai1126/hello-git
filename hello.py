@@ -7,7 +7,7 @@ from datetime import date
 
 BRANDS = {
     "姜胖胖自助烤肉": 2,
-    "霸王茶姬": 5,
+    "霸王茶姬": 6,
     "塔斯汀": 3,
 }
 
